@@ -76,7 +76,7 @@ assign f7=~(a^b);
 endmodule
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: RegisterNumber: 24005701
  
 **Logic symbol & Truthtable**
 ![logic gates](https://github.com/user-attachments/assets/8991d394-fb64-43bd-a231-657e3650325f)
@@ -89,4 +89,4 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **Result:**
 
-Thus the basic logic gates are studied and their truth tables are verified
+**Thus the basic logic gates are studied and their truth tables are verified**
